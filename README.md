@@ -52,17 +52,9 @@ all the files are also in the [`android/`](android/) and [`ios/`](ios/) folders,
 | 6.407.8 | ✅ | ✅ | January 2015 |  | [apk](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v6.407.8_offline.apk) · [ipa](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v6.407.8_offline.ipa) |
 | 7.1.1 | ✅ | ✅ | February 24, 2015 | clan levels and perks, badge editor, war opt-in | [apk](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v7.1.1_offline.apk) · [ipa](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v7.1.1_offline.ipa) |
 
-## tested
-
-some android builds reached the village on an android 7 emulator. all the apk and ipa bytes, archive integrity and signatures were checked. i didn't have an old ios device to run the ipas, so don't take the checkmarks as a gameplay test.
-
-## screenshots
-
-![old village](https://telegra.ph/file/09759efadf4930a5eb067.jpg)
-![old village](https://telegra.ph/file/3022cd9c160af6bd40e57.jpg)
-
 ## credits
 
-apk credits go to the reverse engineers who shared the originals, and me for making a few of them. screenshots by @VitalikObject and @Solaree.
-
-release dates and short notes: [2012](https://clashofclans.fandom.com/wiki/Version_History/2012), [2013](https://clashofclans.fandom.com/wiki/Version_History/2013), [2014](https://clashofclans.fandom.com/wiki/Version_History/2014), [2015](https://clashofclans.fandom.com/wiki/Version_History/2015). the june 2012 beta date is from the archived build, not a confirmed public release date.
+me
+myself
+i
+and ai ❤️
