@@ -1,4 +1,4 @@
-# coc-offline ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=8133.coc-offline&logo=github) [![Stars](https://img.shields.io/github/stars/8133/coc-offline?logo=github)](https://github.com/8133/coc-offline/stargazers)
+# Clash of Clans Offline Mode clients! Play nostalgic 2012-2015 Clash of Clans without an internet connection! ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=8133.coc-offline&logo=github) [![Stars](https://img.shields.io/github/stars/8133/coc-offline?logo=github)](https://github.com/8133/coc-offline/stargazers)
 
 ![clash of clans offline village](screenshots/1.png)
 
