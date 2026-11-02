@@ -54,6 +54,15 @@ all the files are also in the [`android/`](android/) and [`ios/`](ios/) folders,
 | 6.407.8 | ✅ | ✅ | January 2015 |  | [apk](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v6.407.8_offline.apk) · [ipa](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v6.407.8_offline.ipa) |
 | 7.1.1 | ✅ | ✅ | February 24, 2015 | clan levels and perks, badge editor, war opt-in | [apk](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v7.1.1_offline.apk) · [ipa](https://github.com/8133/coc-offline/releases/download/v1-v7.1.1/Clash_of_Clans_v7.1.1_offline.ipa) |
 
+## extras
+
+the newer android offline builds have their own repos.
+
+| version | android | ios | release date | changelog | download |
+| --- | :---: | :---: | --- | --- | --- |
+| 9.256.8 | ✅ | ❌ | October 13, 2017 | builder base friendly battles, more clan perks | [apk](https://github.com/8133/coc-v9-offline/releases/download/v9.256.8/Clash.of.Clans.v9.256.8.offline.apk) |
+| 18.0.5 | ✅ | ❌ | November 24, 2025 | town hall 18, guardians, new defenses | [apk](https://github.com/8133/coc-v18-offline/releases/download/v18.0.5/Clash.of.Clans.v18.0.5.offline.apk) |
+
 ## credits
 
 me
