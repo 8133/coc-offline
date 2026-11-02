@@ -2,7 +2,7 @@
 
 ![clash of clans offline village](screenshots/1.png)
 
-old clash of clans offline clients for android and ios, from v1.70 to v7.1.1. offline mode was available up to v7.1.1.
+old clash of clans offline clients for **Android** and **iOS**, from **v1.70** to **v7.1.1.**.
 
 ✅ = there's a build for that platform, ❌ = no build. blank changelog = i couldn't find a separate change for that exact version. some android and ios builds have different patch numbers for the same update.
 
